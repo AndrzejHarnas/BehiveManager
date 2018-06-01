@@ -1,0 +1,10 @@
+C:\Users\Janek\source\repos\Beehive\Beehive\bin\Debug\Beehive.exe.config
+C:\Users\Janek\source\repos\Beehive\Beehive\bin\Debug\Beehive.exe
+C:\Users\Janek\source\repos\Beehive\Beehive\bin\Debug\Beehive.pdb
+C:\Users\Janek\source\repos\Beehive\Beehive\obj\Debug\Beehive.csprojResolveAssemblyReference.cache
+C:\Users\Janek\source\repos\Beehive\Beehive\obj\Debug\Beehive.Form1.resources
+C:\Users\Janek\source\repos\Beehive\Beehive\obj\Debug\Beehive.Properties.Resources.resources
+C:\Users\Janek\source\repos\Beehive\Beehive\obj\Debug\Beehive.csproj.GenerateResource.cache
+C:\Users\Janek\source\repos\Beehive\Beehive\obj\Debug\Beehive.csproj.CoreCompileInputs.cache
+C:\Users\Janek\source\repos\Beehive\Beehive\obj\Debug\Beehive.exe
+C:\Users\Janek\source\repos\Beehive\Beehive\obj\Debug\Beehive.pdb
